@@ -1,1 +1,1 @@
-Main directory
+Shell redirections
